@@ -1,4 +1,4 @@
-package smarthome;
+package smarthome.devices;
 
 public class Light {
     public void turnOn() {
